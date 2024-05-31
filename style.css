@@ -57,6 +57,7 @@ h2{
    border: 4px solid #ba7ff5;
   background-image: repeating-linear-gradient(#c99ef5,#dba6f7) ;
   position: relative;
+  width:300px;
   height: 500px;
-  overflow: hidden;
+  overflow: auto;
 }
