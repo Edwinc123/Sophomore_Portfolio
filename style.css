@@ -7,7 +7,7 @@ ul {
   overflow: hidden;
 }
 li {
-  float: left;
+  float: right;
 }
 li a, dropBtn {
   display: inline-block;
