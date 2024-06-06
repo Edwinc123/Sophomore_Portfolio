@@ -58,7 +58,7 @@ h2{
   background-color: #ff8585;
   width:800px;
   height: 900px;
-  overflow: hidden;
+  overflow: auto;
   display: inline-block;
 
 }
