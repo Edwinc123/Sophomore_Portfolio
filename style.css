@@ -42,9 +42,6 @@ li.dropDown{
 .dropDown:hover .dropDown-content{
   display: block;
 }
-h2{
-  text-align:left;
-}
 #idk2{
   text-align:left;
 }
