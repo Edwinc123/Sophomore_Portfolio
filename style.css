@@ -85,6 +85,9 @@ li.dropDown{
 body{
    background-color: #f53d3d;
 }
-p,hr{
+p{
   color:black;
+}
+hr{
+   border-top: 8px dashed black;
 }
